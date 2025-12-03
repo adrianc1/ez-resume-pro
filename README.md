@@ -6,7 +6,7 @@ A simple, responsive resume generator app built with **React** and **Tailwind CS
 
 ##  Live Site
 
-[ View Demo](https://ezresume.pro) <!-- Replace with your actual live site URL -->
+[ View Demo](https://ezresume.pro) 
 
 ---
 
@@ -23,15 +23,16 @@ A simple, responsive resume generator app built with **React** and **Tailwind CS
 ##  Screenshot
 
 <img width="2930" height="1462" alt="image" src="https://github.com/user-attachments/assets/98c32001-6958-4759-9e3f-88ae4e843457" />
+<img width="2936" height="1588" alt="image" src="https://github.com/user-attachments/assets/ab52d053-2c17-4826-9784-057640cbb67d" />
+
 
 ---
 
 ##  Tech Stack
 
-- ⚛️ React (Vite or Create React App)
-- 🎨 Tailwind CSS
-- 🧠 useState & useEffect for state management
-- 💡 Clean component structure
+- React 
+- Tailwind CSS
+- React-to-Print
 
 ---
 
