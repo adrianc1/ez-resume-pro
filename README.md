@@ -22,8 +22,7 @@ A simple, responsive resume generator app built with **React** and **Tailwind CS
 
 ##  Screenshot
 
-![Screenshot](<img width="1466" alt="Screenshot 2025-06-28 at 12 40 11 AM" src="https://github.com/user-attachments/assets/b518bf8f-6a29-440a-9099-84138b65607e" />
-) <!-- Add or replace with your actual screenshot -->
+<img width="2930" height="1462" alt="image" src="https://github.com/user-attachments/assets/98c32001-6958-4759-9e3f-88ae4e843457" />
 
 ---
 
