@@ -3,7 +3,7 @@ export default function Footer() {
 		<footer>
 			<div className="mx-auto py-8 text-center">
 				{' '}
-				2025 &copy;{' '}
+				2026 &copy;{' '}
 				<a href="https://dreauxdigital.com/" className="text-blue-700">
 					Dreaux Digital.
 				</a>{' '}
